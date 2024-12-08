@@ -19,7 +19,7 @@ export const products = [
       stars: 4.5,
       count: 87
     },
-    priceCents: 1090,
+    priceCents: 10900,
     keywords: [
       "socks",
       "sports",
@@ -34,7 +34,7 @@ export const products = [
       stars: 4,
       count: 127
     },
-    priceCents: 2095,
+    priceCents: 20950,
     keywords: [
       "sports",
       "basketballs"
@@ -48,7 +48,7 @@ export const products = [
       stars: 4.5,
       count: 56
     },
-    priceCents: 799,
+    priceCents: 7990,
     keywords: [
       "tshirts",
       "apparel",
@@ -65,7 +65,7 @@ export const products = [
       stars: 5,
       count: 2197
     },
-    priceCents: 1899,
+    priceCents: 18990,
     keywords: [
       "toaster",
       "kitchen",
@@ -80,7 +80,7 @@ export const products = [
       stars: 4,
       count: 37
     },
-    priceCents: 2067,
+    priceCents: 20670,
     keywords: [
       "plates",
       "kitchen",
@@ -95,7 +95,7 @@ export const products = [
       stars: 4.5,
       count: 175
     },
-    priceCents: 3499,
+    priceCents: 34990,
     keywords: [
       "kitchen",
       "cookware"
@@ -109,7 +109,7 @@ export const products = [
       stars: 4.5,
       count: 317
     },
-    priceCents: 2400,
+    priceCents: 24000,
     keywords: [
       "hoodies",
       "sweaters",
@@ -124,7 +124,7 @@ export const products = [
       stars: 4.5,
       count: 144
     },
-    priceCents: 3599,
+    priceCents: 35990,
     keywords: [
       "bathroom",
       "washroom",
@@ -141,7 +141,7 @@ export const products = [
       stars: 4.5,
       count: 305
     },
-    priceCents: 2899,
+    priceCents: 28990,
     keywords: [
       "bathroom",
       "cleaning"
@@ -155,7 +155,7 @@ export const products = [
       stars: 4,
       count: 89
     },
-    priceCents: 3390,
+    priceCents: 33900,
     keywords: [
       "shoes",
       "running shoes",
@@ -170,7 +170,7 @@ export const products = [
       stars: 4.5,
       count: 235
     },
-    priceCents: 2070,
+    priceCents: 20700,
     keywords: [
       "robe",
       "swimsuit",
@@ -189,7 +189,7 @@ export const products = [
       stars: 4.5,
       count: 30
     },
-    priceCents: 1560,
+    priceCents: 15600,
     keywords: [
       "accessories",
       "shades"
@@ -203,7 +203,7 @@ export const products = [
       stars: 4.5,
       count: 562
     },
-    priceCents: 2499,
+    priceCents: 24990,
     keywords: [
       "footwear",
       "sandals",
@@ -220,7 +220,7 @@ export const products = [
       stars: 4.5,
       count: 232
     },
-    priceCents: 4599,
+    priceCents: 45990,
     keywords: [
       "bedroom",
       "curtains",
@@ -235,7 +235,7 @@ export const products = [
       stars: 4,
       count: 160
     },
-    priceCents: 1699,
+    priceCents: 16990,
     keywords: [
       "shorts",
       "apparel",
@@ -250,7 +250,7 @@ export const products = [
       stars: 5,
       count: 846
     },
-    priceCents: 3074,
+    priceCents: 30740,
     keywords: [
       "water boiler",
       "appliances",
@@ -265,7 +265,7 @@ export const products = [
       stars: 4,
       count: 99
     },
-    priceCents: 2374,
+    priceCents: 23740,
     keywords: [
       "kleenex",
       "tissues",
@@ -282,7 +282,7 @@ export const products = [
       stars: 4,
       count: 215
     },
-    priceCents: 2200,
+    priceCents: 22000,
     keywords: [
       "hats",
       "straw hats",
@@ -298,7 +298,7 @@ export const products = [
       stars: 4.5,
       count: 52
     },
-    priceCents: 1799,
+    priceCents: 17990,
     keywords: [
       "jewelry",
       "accessories",
@@ -313,7 +313,7 @@ export const products = [
       stars: 4.5,
       count: 2465
     },
-    priceCents: 1374,
+    priceCents: 13740,
     keywords: [
       "hooded",
       "hoodies",
@@ -332,7 +332,7 @@ export const products = [
       stars: 4.5,
       count: 119
     },
-    priceCents: 1250,
+    priceCents: 12500,
     keywords: [
       "bathmat",
       "bathroom",
@@ -347,7 +347,7 @@ export const products = [
       stars: 4,
       count: 326
     },
-    priceCents: 2640,
+    priceCents: 26400,
     keywords: [
       "shoes",
       "flats",
@@ -363,7 +363,7 @@ export const products = [
       stars: 4.5,
       count: 2556
     },
-    priceCents: 1599,
+    priceCents: 15990,
     keywords: [
       "tshirts",
       "shirts",
@@ -381,7 +381,7 @@ export const products = [
       stars: 4.5,
       count: 2286
     },
-    priceCents: 8300,
+    priceCents: 83000,
     keywords: [
       "garbage",
       "bins",
@@ -397,7 +397,7 @@ export const products = [
       stars: 4,
       count: 456
     },
-    priceCents: 2399,
+    priceCents: 23990,
     keywords: [
       "bedroom",
       "bed sheets",
@@ -414,7 +414,7 @@ export const products = [
       stars: 5,
       count: 83
     },
-    priceCents: 1250,
+    priceCents: 12500,
     keywords: [
       "hats",
       "winter hats",
@@ -432,7 +432,7 @@ export const products = [
       stars: 4.5,
       count: 9017
     },
-    priceCents: 2290,
+    priceCents: 22900,
     keywords: [
       "pants",
       "apparel",
@@ -447,7 +447,7 @@ export const products = [
       stars: 4,
       count: 229
     },
-    priceCents: 3890,
+    priceCents: 38900,
     keywords: [
       "shoes",
       "running shoes",
@@ -463,7 +463,7 @@ export const products = [
       stars: 3.5,
       count: 42
     },
-    priceCents: 1690,
+    priceCents: 16900,
     keywords: [
       "sunglasses",
       "glasses",
@@ -479,7 +479,7 @@ export const products = [
       stars: 4.5,
       count: 511
     },
-    priceCents: 6797,
+    priceCents: 67970,
     keywords: [
       "cooking set",
       "kitchen"
@@ -493,7 +493,7 @@ export const products = [
       stars: 4.5,
       count: 130
     },
-    priceCents: 1649,
+    priceCents: 16490,
     keywords: [
       "bathroom",
       "washroom",
@@ -509,7 +509,7 @@ export const products = [
       stars: 4.5,
       count: 248
     },
-    priceCents: 2400,
+    priceCents: 24000,
     keywords: [
       "pants",
       "sweatpants",
@@ -526,7 +526,7 @@ export const products = [
       stars: 4.5,
       count: 117
     },
-    priceCents: 2400,
+    priceCents: 24000,
     keywords: [
       "accessories",
       "womens"
@@ -540,7 +540,7 @@ export const products = [
       stars: 4,
       count: 126
     },
-    priceCents: 2899,
+    priceCents: 28990,
     keywords: [
       "boxes",
       "food containers",
@@ -555,7 +555,7 @@ export const products = [
       stars: 4.5,
       count: 1211
     },
-    priceCents: 2250,
+    priceCents: 22500,
     keywords: [
       "coffeemakers",
       "kitchen",
@@ -570,7 +570,7 @@ export const products = [
       stars: 4.5,
       count: 363
     },
-    priceCents: 3099,
+    priceCents: 30990,
     keywords: [
       "bedroom",
       "home"
@@ -584,7 +584,7 @@ export const products = [
       stars: 4.5,
       count: 93
     },
-    priceCents: 2110,
+    priceCents: 21100,
     keywords: [
       "bathroom",
       "home",
@@ -599,7 +599,7 @@ export const products = [
       stars: 4,
       count: 89
     },
-    priceCents: 3390,
+    priceCents: 33900,
     keywords: [
       "shoes",
       "running shoes",
@@ -615,7 +615,7 @@ export const products = [
       stars: 4,
       count: 3
     },
-    priceCents: 10747,
+    priceCents: 107470,
     keywords: [
       "food blenders",
       "kitchen",
@@ -630,7 +630,7 @@ export const products = [
       stars: 5,
       count: 679
     },
-    priceCents: 3899,
+    priceCents: 38990,
     keywords: [
       "mixing bowls",
       "baking",
@@ -646,7 +646,7 @@ export const products = [
       stars: 4.5,
       count: 1045
     },
-    priceCents: 5799,
+    priceCents: 57990,
     keywords: [
       "kitchen",
       "kitchen towels",
@@ -661,7 +661,7 @@ export const products = [
       stars: 4.5,
       count: 3157
     },
-    priceCents: 2400,
+    priceCents: 24000,
     keywords: [
       "sweaters",
       "hoodies",
