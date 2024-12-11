@@ -56,7 +56,7 @@ export function renderPaymentSummary() {
       <div>Order total:</div>
       <div class="payment-summary-money">
         ₹${formatCurrency(totalCents)}
-      </div>s
+      </div>
     </div>
 
     <button class="place-order-button button-primary">
