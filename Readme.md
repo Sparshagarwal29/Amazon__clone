@@ -49,8 +49,9 @@ This project intentionally avoids frameworks to demonstrate a strong understandi
 - Real-world e-commerce logic (cart, shipping, tax)
 
 ---
+## 📁 Project Structure
 
-## 🗂 Project Structure
+```text
 .
 ├── backend/
 │   └── products.json
