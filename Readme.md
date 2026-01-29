@@ -64,10 +64,10 @@ This project intentionally avoids frameworks to demonstrate a strong understandi
 │   ├── icons/
 │   ├── products/
 │   ├── ratings/
-│   ├── amazon-logo-white.png
 │   ├── amazon-logo.png
-│   ├── amazon-mobile-logo-white.png
+│   ├── amazon-logo-white.png
 │   ├── amazon-mobile-logo.png
+│   ├── amazon-mobile-logo-white.png
 │   ├── appliance-instructions.png
 │   ├── appliance-warranty.png
 │   └── clothing-size-chart.png
@@ -92,6 +92,7 @@ This project intentionally avoids frameworks to demonstrate a strong understandi
 ├── orders.html
 ├── tracking.html
 └── README.md
+
 
 ---
 
