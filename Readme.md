@@ -132,4 +132,3 @@ This project intentionally avoids frameworks to demonstrate a strong understandi
 ## 👤 Author
 
 **Sparsh**  
-Frontend Developer (Fundamentals-first approach)
